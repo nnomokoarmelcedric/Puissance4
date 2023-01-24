@@ -1,0 +1,13 @@
+NOUVELLE PARTIE
+Debut de la premiere manche
+monkey a joué  5
+monkey a joué  5
+monkey a joué  3
+monkey a joué  3
+monkey a joué  3
+monkey a joué  2
+monkey a joué  5
+monkey a joué  4
+monkey a joué  2
+monkey a joué  1
+erreur saisie colonne d

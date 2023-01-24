@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Puissance4:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Puissance4_jar</output-path>
+    <root id="archive" name="Puissance4.jar">
+      <element id="module-output" name="Puissance4" />
+    </root>
+  </artifact>
+</component>
